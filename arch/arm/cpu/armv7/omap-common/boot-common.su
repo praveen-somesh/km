@@ -1,0 +1,3 @@
+boot-common.c:24:12:omap_sys_boot_device	0	static
+boot-common.c:29:6:save_omap_boot_params	8	static
+boot-common.c:240:5:fb_set_reboot_flag	8	static

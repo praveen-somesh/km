@@ -1,0 +1,8 @@
+boot-common.c:24:12:omap_sys_boot_device	0	static
+boot-common.c:29:6:save_omap_boot_params	8	static
+boot-common.c:164:5:spl_boot_device	0	static
+boot-common.c:169:5:spl_boot_mode	0	static
+boot-common.c:174:6:spl_board_init	8	static
+boot-common.c:203:12:board_mmc_init	16	static
+boot-common.c:218:17:jump_to_image_no_args	8	static
+boot-common.c:240:5:fb_set_reboot_flag	8	static

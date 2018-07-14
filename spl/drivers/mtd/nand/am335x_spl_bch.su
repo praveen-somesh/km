@@ -1,0 +1,4 @@
+am335x_spl_bch.c:30:12:nand_command	40	static
+am335x_spl_bch.c:173:5:nand_spl_load_image	232	static
+am335x_spl_bch.c:221:6:nand_init	16	static
+am335x_spl_bch.c:239:6:nand_deselect	0	static

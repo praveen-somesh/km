@@ -1,0 +1,3 @@
+spl_fit.c:14:14:fdt_getprop_u32	16	static
+spl_fit.c:115:12:get_aligned_image_size	16	static
+spl_fit.c:126:5:spl_load_simple_fit	56	static

@@ -1,0 +1,10 @@
+board.c:64:23:default_serial_console	8	static
+board.c:213:5:spl_start_uboot	8	static
+board.c:238:6:am33xx_spl_board_init	24	static
+board.c:380:27:get_dpll_ddr_params	8	static
+board.c:397:6:set_uart_mux_conf	0	static
+board.c:414:6:set_mux_conf_regs	8	static
+board.c:454:6:sdram_init	24	static
+board.c:540:5:board_init	8	static
+board.c:571:5:board_late_init	8	static
+board.c:760:5:board_fit_config_name_match	8	static
